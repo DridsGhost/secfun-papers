@@ -11,7 +11,7 @@ Companion to the Sec Fundamentals blog at https://secfun8.wordpress.com.
 | Title | Topic | Link |
 | --- | --- | --- |
 | Securing Pod-to-Pod Traffic with eBPF, Cilium, and SIEM-Driven SecOps | East-west traffic, microsegmentation, runtime detection, SIEM | [PDF](papers/pod-to-pod-ebpf-cilium-siem.pdf) |
-| Kubernetes Ingress Security: Hardening the Edge with Traefik and Ambassador | Ingress, TLS, edge auth, WAF, least-privilege routing | [PDF](papers/ingress-security-traefik-ambassador.pdf) |
+| Kubernetes Ingress Security: Hardening the Edge with Traefik and Ambassador | Ingress, TLS, edge auth, WAF, least-privilege routing | [PDF](Ingress_Security_Traefik_Ambassador_whitepaper.pdf) |
 
 ## Topics covered
 
