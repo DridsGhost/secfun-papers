@@ -10,7 +10,7 @@ Companion to the Sec Fundamentals blog at https://secfun8.wordpress.com.
 
 | Title | Topic | Link |
 | --- | --- | --- |
-| Kubernetes RBAC and Pod Security: Least Privilege Inside the Cluster | RBAC, service accounts, Pod Security Standards, policy as code, cluster audit | [PDF](papers/RBAC_PodSecurity_LeastPrivilege_whitepaper.pdf) |
+| Kubernetes RBAC and Pod Security: Least Privilege Inside the Cluster | RBAC, service accounts, Pod Security Standards, policy as code, cluster audit | [PDF](RBAC_PodSecurity_LeastPrivilege_whitepaper.pdf) |
 | Kubernetes Ingress Security: Hardening the Edge with Traefik and Ambassador | Ingress, TLS, edge auth, WAF, least-privilege routing | [PDF](Ingress_Security_Traefik_Ambassador_whitepaper.pdf) |
 
 ## Topics covered
